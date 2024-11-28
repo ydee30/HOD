@@ -1,0 +1,41 @@
+.footer{
+    position: relative;
+    top: 30em;
+    text-align: center;
+    
+}
+
+.social-contact{
+    background-color: transparent;
+    
+}
+.social-contact img{
+    height: 25px;
+    width: 25px;
+}
+.social-contact a{
+    display: inline-block;
+    border-radius: 50%;
+    text-decoration: none;
+    color: black;
+    padding: 15px 100px;
+    line-height: 150px;
+    color:#ffffff;
+    transition: all 0.5s ease;
+    
+}
+
+.social-contact a:hover{
+    color:black;
+   
+    
+}
+.social-contact h4{
+    position: relative;
+    top:20px
+}
+
+.fab {
+    height:20px;
+}
+
